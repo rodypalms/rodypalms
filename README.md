@@ -2,9 +2,7 @@
 
 - I’m Rodrigo, nicknamed Rody
 - 👀 I’m interested in WebDevelopment and Vulnerabilies Searching for Ethical Hacking
--   Ask me about anything, I'm glad to help!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... 
+- 💬 Ask me about anything, I'm glad to help! 
 - 📫 How to reach me ... rodrigo.ti.pro@gmail.com
 
 
