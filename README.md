@@ -1,7 +1,7 @@
  Hi, There !<br> <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif">
 
 - I’m Rodrigo, nicknamed Rody
-- 👀 I’m professionally interested in WebDevelopment and a <i>byt</i> curious about System Vulnerabilies
+- 👀 I’m <strong>professionally</strong> interested in <strong>Web Development</strong> and a <i>byt</i> curious about System Vulnerabilies
 - 💬 Ask me about anything, I'm glad to help! 
 - 📫 How to reach me ... rodrigo.ti.pro@gmail.com
 
