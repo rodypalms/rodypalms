@@ -8,7 +8,7 @@
 
 ██╗<br>
 ╚██╗<br>
-░╚██╗ ACCENTURE Technology employee<br>
+░╚██╗ ACCENTURE employee<br>
 ░██╔╝<br>
 ██╔╝<br>
 ╚═╝<br>
