@@ -16,8 +16,8 @@
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
-[![Github Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/rodypalms/)](https://www.github.com/roypalms/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoalvesp/)](https://www.linkedin.com/in/rodrigoalvesp/)
+[![Github Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/rodypalms/)](https://www.github.com/rodypalms/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rodypalms/)](https://www.instagram.com/rodypalms/)
 
 <hr>
