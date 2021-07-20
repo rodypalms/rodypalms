@@ -4,6 +4,16 @@
 - 👀 I’m <u>professionally</u> interested in <strong>Web Development</strong> and a <i>byt</i> curious about System Vulnerabilies
 - 💬 Ask me about anything, I'm glad to help! 
 - 📫 How to reach me ... rodrigo.ti.pro@gmail.com
+
+
+██╗░░<br>
+╚██╗░<br>
+░╚██╗ Proud to be an ACCENTURE employee<br>
+░██╔╝<br>
+██╔╝░<br>
+╚═╝░░<br>
+<br>
+
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
@@ -12,10 +22,3 @@
 
 <hr>
 
-
-██╗░░
-╚██╗░
-░╚██╗  Accenture
-░██╔╝
-██╔╝░
-╚═╝░░
