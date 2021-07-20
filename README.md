@@ -6,12 +6,12 @@
 - 📫 How to reach me ... rodrigo.ti.pro@gmail.com
 
 
-██╗░░<br>
-╚██╗░<br>
+██╗<br>
+╚██╗<br>
 ░╚██╗ ACCENTURE Technology employee<br>
 ░██╔╝<br>
-██╔╝░<br>
-╚═╝░░<br>
+██╔╝<br>
+╚═╝<br>
 <br>
 
 <hr>
