@@ -8,7 +8,7 @@
 
 ██╗░░<br>
 ╚██╗░<br>
-░╚██╗ Proud to be an ACCENTURE employee<br>
+░╚██╗ ACCENTURE Technology employee<br>
 ░██╔╝<br>
 ██╔╝░<br>
 ╚═╝░░<br>
