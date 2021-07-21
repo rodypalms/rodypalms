@@ -3,12 +3,11 @@
 - I’m Rodrigo, nicknamed Rody
 - 👀 I’m <u>professionally</u> interested in <strong>Web Development</strong> and a <i>byt</i> curious about System Vulnerabilies
 - 💬 Ask me about anything, I'm glad to help! 
-- 📫 How to reach me ... rodrigo.ti.pro@gmail.com
-
+- 📫 Currently working at: 
 
 ██╗<br>
 ╚██╗<br>
-░╚██╗ ACCENTURE employee<br>
+░╚██╗ ACCENTURE<br>
 ░██╔╝<br>
 ██╔╝<br>
 ╚═╝<br>
