@@ -1,7 +1,7 @@
  Hi, There !<br> <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif">
 
 - I’m Rodrigo, nicknamed Rody
-- 👀 I’m <u>professionally</u> interested in <strong>Web Development</strong> and a <i>byt</i> curious about System Vulnerabilies
+- 👀 I’m <u>professionally</u> interested in <strong>Web Development</strong> and a <i>byt</i> curious about System Vulnerabilities
 - 💬 Ask me about anything, I'm glad to help! 
 - 📫 Currently working at: 
 
